@@ -57,7 +57,7 @@ Heres the UML that represents how the application works with their classes.
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "" />
+	<img height = "250em" src = "https://github.com/FernandoSchett/duckling-days-backend/assets/80331486/a4120203-9d57-445a-a17f-c7978db29a2b" />
     </a>
 </div>
 
