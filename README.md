@@ -28,6 +28,9 @@ We also used [NASA API](https://api.nasa.gov/), APOD to get access to all image 
 - Sign in and log in your user. 
 - Pull images from NASA API.
 
+## Routes
+Every Route from the API can be found in [swagger](https://app.swaggerhub.com/apis/FernandoSchett/duckling_days/1.0.0).
+
 ## Dependencies:
 
 The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
@@ -40,18 +43,6 @@ For installing dependencies more quickly, you can use Visual Studio to download 
 ## How to run it:
 
 First, clone this repository. After that, open the directory with Visual Studio, executing the services layer.
-
-## UML:
-
-Heres the UML that represents how the application works with their classes.
-
-<div align="center">
-	<a href="">
-	<img height = "250em" src = "" />
-    </a>
-</div>
-<h4 align="center">Figure 1 - Duckling Sky BackEnd UML.</h4>
-
 
 ## Database:
 
