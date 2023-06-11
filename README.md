@@ -18,7 +18,7 @@
 
 ## About:
 
-This repository contains the backend made for [Duckling cats FrontEnd](https://github.com/enzogebauer/Duckling-Aleatory-Cats-), its cointains all services and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd. 
+This repository contains the backend made for [Duckling cats FrontEnd](https://github.com/enzogebauer/duckling_aleatory_cats), its cointains all services and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd. 
 
 We also used [Cat API](https://thecatapi.com), APOD to get access to all image from the specif day.
 
