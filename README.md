@@ -1,8 +1,8 @@
-<h1 align="center">🌕 Duckling Days Backend 🌕</h1>
+<h1 align="center">🐱 Duckling Aleatory Cats Backend 🐱</h1>
 
 <div align="center">
 	<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley">
-	<img height = "250em" src = "https://github-production-user-asset-6210df.s3.amazonaws.com/80331486/244884813-0c4936c1-e6d0-4d3f-9e9f-a6922aafc685.png" />
+	<img height = "250em" src = "https://github.com/FernandoSchett/duckling-days-backend/assets/80331486/6417c9a8-0a67-4f24-9e3f-8a2df9ca3515" />
     </a>
 </div>
 
@@ -18,9 +18,9 @@
 
 ## About:
 
-This repository contains the backend made for [Duckling Sky FrontEnd](https://github.com/enzogebauer/DucklingSky), its cointains all services and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd. 
+This repository contains the backend made for [Duckling cats FrontEnd](https://github.com/enzogebauer/Duckling-Aleatory-Cats-), its cointains all services and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd. 
 
-We also used [NASA API](https://api.nasa.gov/), APOD to get access to all image from the specif day.
+We also used [Cat API](https://thecatapi.com), APOD to get access to all image from the specif day.
 
 ## Resourses:
 
@@ -29,7 +29,7 @@ We also used [NASA API](https://api.nasa.gov/), APOD to get access to all image 
 - Pull images from NASA API.
 
 ## Routes
-Every Route from the API can be found in [swagger](https://app.swaggerhub.com/apis/FernandoSchett/duckling_days/1.0.0).
+Every Route from the API can be found in [swagger]().
 
 ## Dependencies:
 
@@ -48,7 +48,7 @@ First, clone this repository. After that, open the directory with Visual Studio,
 
 <div align="center">
 	<a href="">
-	<img height = "250em" src = "https://github.com/FernandoSchett/duckling-days-backend/assets/80331486/a4120203-9d57-445a-a17f-c7978db29a2b" />
+	<img height = "250em" src = "https://github.com/FernandoSchett/duckling-days-backend/assets/80331486/30bf42b6-1a45-4d03-83b7-07f30b4e9578" />
     </a>
 </div>
 
@@ -61,6 +61,7 @@ Developers used [Trello]() to get things organized, each one using their own bra
 ## Tools Used:
 
 - Visual Studio.
+- Miro.
 
 ## How to contribute:
 
