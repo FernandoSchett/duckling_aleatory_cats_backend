@@ -7,8 +7,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\duckling_aleatory_cats.DAL\duckling_aleatory_cats.DAL.csproj" />
-    <ProjectReference Include="..\duckling_aleatory_cats.MODEL\duckling_aleatory_cats.MODEL.csproj" />
+    <ProjectReference Include="..\duckling_days.DAL\duckling_days.DAL.csproj" />
+    <ProjectReference Include="..\duckling_days.MODEL\duckling_days.MODEL.csproj" />
   </ItemGroup>
 
 </Project>
