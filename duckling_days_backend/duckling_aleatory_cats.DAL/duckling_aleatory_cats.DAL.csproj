@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\duckling_days.MODEL\duckling_days.MODEL.csproj" />
+    <ProjectReference Include="..\duckling_aleatory_cats.MODEL\duckling_aleatory_cats.MODEL.csproj" />
   </ItemGroup>
 
 </Project>
