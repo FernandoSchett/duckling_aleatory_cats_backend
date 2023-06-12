@@ -6,9 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\duckling_days.DAL\duckling_days.DAL.csproj" />
-    <ProjectReference Include="..\duckling_days.MODEL\duckling_days.MODEL.csproj" />
-  </ItemGroup>
-
 </Project>

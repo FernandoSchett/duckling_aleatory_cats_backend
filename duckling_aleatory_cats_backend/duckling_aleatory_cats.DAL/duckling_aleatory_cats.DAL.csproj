@@ -16,12 +16,4 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\duckling_days.MODEL\duckling_days.MODEL.csproj" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="DBContext\" />
-  </ItemGroup>
-
 </Project>
