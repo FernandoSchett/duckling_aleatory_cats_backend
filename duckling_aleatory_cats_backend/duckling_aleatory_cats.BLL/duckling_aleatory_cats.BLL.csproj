@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\duckling_aleatory_cats.DAL\duckling_aleatory_cats.DAL.csproj" />
+    <ProjectReference Include="..\duckling_aleatory_cats.MODEL\duckling_aleatory_cats.MODEL.csproj" />
+  </ItemGroup>
+
+</Project>
