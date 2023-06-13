@@ -25,7 +25,7 @@ namespace duckling_aleatory_cats.BLL
             using (var dbContext = new DbContext())
             {
 
-                var user = dbContext.TbUsers.Single(p => p.Username == _user.Username && p.Password == _user.Password);
+                var user = dbContext.TbUsers.Single(p => p.Email == _user.Email && p.Password == _user.Password);
                 return _user == null ? false : true;
 
             }
