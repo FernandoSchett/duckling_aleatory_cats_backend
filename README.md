@@ -33,10 +33,8 @@ Every Route from the API can be found in [swagger]().
 
 ## Dependencies:
 
-The project dependencies are described in a dependencies file within the repository. In summary, heres what you're gonna need in order to run the project:
+The project dependencies are described in a dependencies file package.json within the repository. 
 
-- 
-- 
 
 For installing dependencies more quickly, you can use Visual Studio to download automaticlly your dependencies.
 
