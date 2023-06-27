@@ -6,43 +6,79 @@
     </a>
 </div>
 
-## Developed by:
+## Developed by 💻:
+
 - [Fernando Schettini](https://github.com/FernandoSchett)
 - [Antonio Horácio Magalhães](https://github.com/AntonioHoracio77)
 - [Orlando Mota Pires](https://github.com/orlandomotapires)
 - [Enzo Gebauer](https://github.com/enzogebauer)
 
-## Special thanks to:
+## Special thanks to 🥰:
 
 - [Edson Mota](https://github.com/edsonmottac) - Our supervising professor, your experience and knowledge have been invaluable to our progress.
 
-## About:
+## About 🤔:
 
-This repository contains the backend made for [Duckling cats FrontEnd](https://github.com/enzogebauer/duckling_aleatory_cats), its cointains all services and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd. 
+This repository contains the backend made for [Duckling Aleatory Cats FrontEnd](https://github.com/enzogebauer/duckling_aleatory_cats_frontend) application, its cointains all services, business logic and database structure for making that presentation layer work. It is responsible for log in and sign in feature, storing all images from the user and intermediates all images from NASA API and the FrontEnd.  We also used [Cat API](https://thecatapi.com), to get access to aleatory cats.
 
-We also used [Cat API](https://thecatapi.com), APOD to get access to all image from the specif day.
+## Resourses 🧑‍🔬:
 
-## Resourses:
-
-- Save your favorite days by storing images ids, description and title.
+- Save your favorite cats in database, by storing images ids, description and title.
 - Sign in and log in your user. 
-- Pull images from NASA API.
+- Pull images from [Cat API](https://thecatapi.com).
 
-## Routes
+## Routes 🛣️:
+
 Every Route from the API can be found in [swagger]().
 
-## Dependencies:
+- **POST** - /PostCat;
+- **GET** - /GetRandCat;
+- **GET** - /GetCatsFromUser/{id};
+- **POST** - /PostUser;
+- **POST** - /CheckLogin;
 
-The project dependencies are described in a dependencies file package.json within the repository. 
+## Dependencies 🚚:
+
+In summary, heres what you're gonna need in order to run the project:
+
+- ```Swashbuckle.AspCore 6.2.3```.
+- ```entityframeworkcore 7.0.5```.
+- ```entityframeworkcore.SqlServer 7.0.5```.
+- ```entityframeworkcore.Tools 7.0.5```.
+
+For installing dependencies more quickly, you can use [Visual Studio](https://visualstudio.microsoft.com/pt-br/) to download automatically your dependencies.
+
+## How to run it 🏃:
+
+First, clone this repository. Then, Open the project with [Visual Studio](https://visualstudio.microsoft.com/pt-br/), change at "duckling_aleatory_cats.DAL" layer ```DbSet.cs``` class path to your own ```Database.mdf``` and execute duckling aleatory cats services layer.
+
+## How to install 🔬:
+
+## UML‍ 💬:
+
+Heres the UML that represents how the application works with their classes.
+
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+    </a>
+</div>
+
+<h4 align="center">Figure 1 - Duckling Aleatory Cats Backend UML.</h4>
 
 
-For installing dependencies more quickly, you can use Visual Studio to download automaticlly your dependencies.
+## Logic Model 🧮:
 
-## How to run it:
+Here's the logic model that represents how the code works with their classes.
 
-First, clone this repository. After that, open the directory with Visual Studio, executing the services layer.
+<div align="center">
+	<a href="">
+	<img height = "250em" src = "https://github.com/FernandoSchett/github_readme_template/assets/80331486/4e4d24ee-efce-41d9-873b-3ececaf1cdd5" />
+    </a>
+</div>
+<h4 align="center">Figure 2 - Logic Model.</h4>
 
-## Database:
+## Database 🗃️:
 
 <div align="center">
 	<a href="">
@@ -50,21 +86,21 @@ First, clone this repository. After that, open the directory with Visual Studio,
     </a>
 </div>
 
-<h4 align="center">Figure 2 - Relational Model Database.</h4>
+<h4 align="center">Figure 3 - Relational Model Database.</h4>
 
-## Development Process:
+## Development Process ⚙️:
 
 Developers used [Trello]() to get things organized, each one using their own branch to code, using names to identify the commit type then merginng the features into develop branch. After testing, the group update the main branch. This application was developed in 08/06/2023 until 12/06/2023.
 
-## Tools Used:
+### Tools Used 🛠️: 
 
-- Visual Studio.
-- Miro.
+- [Visual Studio](https://visualstudio.microsoft.com/pt-br/).
+- [Miro](miro.com).
 
-## How to contribute:
+## How to contribute 🫂:
 
-Feel free to create a new branch, fork the project or contact one of us to develop at Duckling Sky.
+Feel free to create a new branch, fork the project or contact one of us to develop at Duckling Aleatory Days BackEnd.
 
-## Licence:
+## Licence 📜:
 
 [Apache V2](https://choosealicense.com/licenses/apache-2.0/)
